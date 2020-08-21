@@ -27,4 +27,4 @@ https://developer.spotify.com/documentation/web-api/reference/browse/get-recomme
 
 
 
-Se seu código retornar 201 sua playlista está criada
+Se ao executar seu código retornar status 201 sua playlist está criada
