@@ -12,6 +12,8 @@ headers = {
     'Authorization': f'Bearer {token}',
 }
 
+# ATRIBUTOS PERSONALIZÁVEIS
+
 limit=10 #quantidade de musicas
 market="" # Sigla do país por exemplo BR, US
 seed_genres="" # Genero musical consulte a doc do spotify
