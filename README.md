@@ -3,10 +3,14 @@ Script que cria playlists automaticas de acordo com gosto do usuário
 Para usar o script é necessário gerar um token
 
 
+
+
 Criação de Token para o campo "token" no cabeçalho
 
 
 https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo?si=j0g5jLU5Stu6nhplLqOZ5g
+
+
 
 Pegar ID do usuário e de Artista
 
@@ -17,7 +21,10 @@ Virá algo semelhante spotify:artist:4vGrte8FDu062Ntj0RsPiZ, precisamos apenas d
 
 
 Atributos personalizaveis
+
+
 https://developer.spotify.com/documentation/web-api/reference/browse/get-recommendations/
+
 
 
 Se seu código retornar 201 sua playlista está criada
